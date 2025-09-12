@@ -4,7 +4,7 @@
 // Tất cả lưu bằng List<string> kiểu "id|field1|field2|..."
 
 using System;
-using System.Collections.Generic;+x
+using System.Collections.Generic;
 
 public class BadSchoolProgram
 {
