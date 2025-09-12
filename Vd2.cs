@@ -4,7 +4,7 @@
 // Tất cả lưu bằng List<string> kiểu "id|field1|field2|..."
 
 using System;
-using System.Collections.Generic; +1
+using System.Collections.Generic;+x
 
 public class BadSchoolProgram
 {
@@ -23,7 +23,7 @@ public class BadSchoolProgram
             Console.WriteLine("1. Quan ly Sinh vien");
             Console.WriteLine("2. Quan ly Giao vien");
             Console.WriteLine("3. Quan ly Mon hoc");
-            Console.WriteLine("4. Quan ly Dang ky hoc");
+            Console.WriteLine("4. Quan ly Dang ky hoc");zz
             Console.WriteLine("5. Quan ly Diem");
             Console.WriteLine("6. Bao cao tong hop");
             Console.WriteLine("99. Thoat");
