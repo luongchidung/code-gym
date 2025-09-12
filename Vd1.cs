@@ -2,7 +2,7 @@
 // Lưu ý: code này chỉ để sinh viên phân tích, KHÔNG nên dùng thật
 // Tất cả dữ liệu lưu trữ trong ArrayList<String> dạng "id|name|field1|field2|..."
 
-import java.util.*;
+import java.util.*;1
 
 public class BadSchoolProgram
 {
